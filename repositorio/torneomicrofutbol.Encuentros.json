@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "655ac8bd6902e83f555f9434"
+  },
+  "codigo_encuentro": "1",
+  "jornada": "jornada1",
+  "equipoa": "america",
+  "equipob": "nacional",
+  "golesa": "5",
+  "golesb": "3"
+},
+{
+  "_id": {
+    "$oid": "655ac8bd6902e83f555f9435"
+  },
+  "codigo_encuentro": "2",
+  "jornada": "jornada1",
+  "equipoa": "tolima",
+  "equipob": "cucuta",
+  "golesa": "4",
+  "golesb": "2"
+},
+{
+  "_id": {
+    "$oid": "655ac8bd6902e83f555f9436"
+  },
+  "codigo_encuentro": "3",
+  "jornada": "jornada1",
+  "equipoa": "millonarios",
+  "equipob": "alianza",
+  "golesa": "2",
+  "golesb": "5"
+},
+{
+  "_id": {
+    "$oid": "655ac8bd6902e83f555f9437"
+  },
+  "codigo_encuentro": "4",
+  "jornada": "jornada1",
+  "equipoa": "boyaca",
+  "equipob": "pasto",
+  "golesa": "1",
+  "golesb": "3"
+},
+{
+  "_id": {
+    "$oid": "655ac8bd6902e83f555f9438"
+  },
+  "codigo_encuentro": "5",
+  "jornada": "jornada1",
+  "equipoa": "jaguares",
+  "equipob": "santa fe",
+  "golesa": "3",
+  "golesb": "6"
+}]

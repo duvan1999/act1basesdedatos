@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "655ac6e26902e83f555f942d"
+  },
+  "codigo_arbitro": "1",
+  "nombres": "jhon",
+  "apellidos": "medina ortiz",
+  "nacimiento": "19-11-2001",
+  "edad": "24",
+  "nacionalidad": "colombiano",
+  "partidos_pitados": "5"
+},
+{
+  "_id": {
+    "$oid": "655ac6e26902e83f555f942e"
+  },
+  "codigo_arbitro": "2",
+  "nombres": "yofier valentin",
+  "apellidos": "jaimes alvarado",
+  "nacimiento": "6-07-2002",
+  "edad": "26",
+  "nacionalidad": "colombiano",
+  "partidos_pitados": "5"
+},
+{
+  "_id": {
+    "$oid": "655ac6e26902e83f555f942f"
+  },
+  "codigo_arbitro": "3",
+  "nombres": "carmen mithegelly",
+  "apellidos": "angarita vargas",
+  "nacimiento": "10-03-1981",
+  "edad": "43",
+  "nacionalidad": "colombiano",
+  "partidos_pitados": "5"
+},
+{
+  "_id": {
+    "$oid": "655ac6e26902e83f555f9430"
+  },
+  "codigo_arbitro": "4",
+  "nombres": "miguel angelo",
+  "apellidos": "cortez sepulveda",
+  "nacimiento": "25-04-2002",
+  "edad": "22",
+  "nacionalidad": "colombiano",
+  "partidos_pitados": "5"
+},
+{
+  "_id": {
+    "$oid": "655ac6e26902e83f555f9431"
+  },
+  "codigo_arbitro": "5",
+  "nombres": "sara marcela",
+  "apellidos": "cortez sepulveda",
+  "nacimiento": "15-04-2001",
+  "edad": "23",
+  "nacionalidad": "colombiano",
+  "partidos_pitados": "5"
+}]

@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "655ac4b76902e83f555f9426"
+  },
+  "codigo": "1",
+  "nombres": "carlos duvan",
+  "apéllidos": "celis angarita",
+  "peso": "95kg",
+  "altura": "1.84",
+  "numero_camiseta": "5",
+  "posicion_de_juego": "defenza",
+  "equipo": "america"
+},
+{
+  "_id": {
+    "$oid": "655ac4b76902e83f555f9427"
+  },
+  "codigo": "2",
+  "nombres": "wilder daniel",
+  "apéllidos": "cely angarita",
+  "peso": "60kg",
+  "altura": "1.80",
+  "numero_camiseta": "9",
+  "posicion_de_juego": "central",
+  "equipo": "nacional"
+},
+{
+  "_id": {
+    "$oid": "655ac4b76902e83f555f9428"
+  },
+  "codigo": "3",
+  "nombres": "ivan santiago",
+  "apéllidos": "cely angarita",
+  "peso": "65kg",
+  "altura": "1.82",
+  "numero_camiseta": "11",
+  "posicion_de_juego": "delantero",
+  "equipo": "tolima"
+},
+{
+  "_id": {
+    "$oid": "655ac4b76902e83f555f9429"
+  },
+  "codigo": "4",
+  "nombres": "edward jose",
+  "apéllidos": "parra cristancho",
+  "peso": "50kg",
+  "altura": "1.69",
+  "numero_camiseta": "10",
+  "posicion_de_juego": "delantero",
+  "equipo": "cucuta"
+},
+{
+  "_id": {
+    "$oid": "655ac4b76902e83f555f942a"
+  },
+  "codigo": "5",
+  "nombres": "wilder ivan",
+  "apéllidos": "cely carvajal",
+  "peso": "75kg",
+  "altura": "1.70",
+  "numero_camiseta": "1",
+  "posicion_de_juego": "defenza",
+  "equipo": "millonariois"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "655acbab6902e83f555f943b"
+  },
+  "cod_resultado": "1",
+  "equipo_ganador": "america",
+  "equipo_perdedor": "nacional",
+  "jornada": "1",
+  "puntos_asignados": "3"
+},
+{
+  "_id": {
+    "$oid": "655acbab6902e83f555f943c"
+  },
+  "cod_resultado": "2",
+  "equipo_ganador": "tolima",
+  "equipo_perdedor": "",
+  "jornada": "1",
+  "puntos_asignados": "3"
+},
+{
+  "_id": {
+    "$oid": "655acbab6902e83f555f943d"
+  },
+  "cod_resultado": "3",
+  "equipo_ganador": "pasto",
+  "equipo_perdedor": "cucuta",
+  "jornada": "1",
+  "puntos_asignados": "3"
+},
+{
+  "_id": {
+    "$oid": "655acbab6902e83f555f943e"
+  },
+  "cod_resultado": "4",
+  "equipo_ganador": "millonarios",
+  "equipo_perdedor": "alianza",
+  "jornada": "1",
+  "puntos_asignados": "3"
+},
+{
+  "_id": {
+    "$oid": "655acbab6902e83f555f943f"
+  },
+  "cod_resultado": "5",
+  "equipo_ganador": "santa fe",
+  "equipo_perdedor": "jaguares",
+  "jornada": "1",
+  "puntos_asignados": "3"
+}]

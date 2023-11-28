@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "655ad6e56902e83f555f944e"
+  },
+  "cod_estadio": "1",
+  "nombre_estadio": "pascual guerrero",
+  "ciudad": "cali",
+  "capacidad": "20mil",
+  "equipo_lider": "america de cali"
+},
+{
+  "_id": {
+    "$oid": "655ad6e56902e83f555f944f"
+  },
+  "cod_estadio": "2",
+  "nombre_estadio": "atanacio girardot",
+  "ciudad": "medellin",
+  "capacidad": "60mil",
+  "equipo_lider": "nacional"
+},
+{
+  "_id": {
+    "$oid": "655ad6e56902e83f555f9450"
+  },
+  "cod_estadio": "3",
+  "nombre_estadio": "nemecio camacho el campin",
+  "ciudad": "bogota",
+  "capacidad": "60mil",
+  "equipo_lider": "millonarios"
+},
+{
+  "_id": {
+    "$oid": "655ad6e56902e83f555f9451"
+  },
+  "cod_estadio": "4",
+  "nombre_estadio": "manuel murillo toro",
+  "ciudad": "ibague",
+  "capacidad": "28mil",
+  "equipo_lider": "tolima"
+},
+{
+  "_id": {
+    "$oid": "655ad6e56902e83f555f9452"
+  },
+  "cod_estadio": "5",
+  "nombre_estadio": "general santander",
+  "ciudad": "cucuta",
+  "capacidad": "42mil",
+  "equipo_lider": "deportivo cucuta"
+}]
